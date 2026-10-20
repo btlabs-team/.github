@@ -2,9 +2,9 @@
 
 # btlabs Core
 
-Le fondamenta digitali del collettivo altoatesino **Berger+Team**.
+btlabs Core è la piattaforma web multilingue di **Berger+Team** che rende le aziende trovabili da persone e IA — veloce, senza banner cookie, con piena sovranità sui dati.
 
-Una base sostiene presenza, shop e agenti IA. Tedesco, italiano e inglese ancorati nel
+Una base sostiene presenza e agenti IA. Tedesco, italiano e inglese ancorati nel
 nucleo — ogni lingua con il proprio indirizzo, non un plugin di traduzione. Analisi
 first-party senza cookie, quindi nessun banner. Nessun canone di licenza per il sistema
 centrale.
@@ -55,7 +55,7 @@ non facciamo, non solo quello che facciamo.
 ## Da qui in poi
 
 - **[btlabs.dev](https://btlabs.dev/it)** — la piattaforma. Tedesco, italiano, inglese.
-- **[berger.team](https://www.berger.team/it/)** — il collettivo dietro. Bolzano, Alto Adige.
+- **[berger.team](https://www.berger.team/it/)** — Berger+Team è un collettivo di freelance di Bolzano (Alto Adige) per branding, web design, marketing online e visibilità nell'IA, fondato nel 2019 da Florian Berger.
 
 Gli strumenti che sono soltanto nostri e utili a qualcun altro finiscono in questa
 organizzazione. Il primo è in arrivo.

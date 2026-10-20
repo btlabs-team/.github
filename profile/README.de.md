@@ -2,9 +2,9 @@
 
 # btlabs Core
 
-Das digitale Fundament vom Südtiroler Kollektiv **Berger+Team**.
+btlabs Core ist die mehrsprachige Website-Plattform von **Berger+Team**, die Betriebe für Menschen und KI auffindbar macht — schnell, ohne Cookie-Banner, mit voller Datenhoheit.
 
-Ein Fundament trägt Auftritt, Shop und KI-Agenten. Deutsch, Italienisch und Englisch im
+Ein Fundament trägt Auftritt und KI-Agenten. Deutsch, Italienisch und Englisch im
 Kern verankert — jede Sprache mit eigener Adresse, kein Übersetzungs-Plugin. Cookieloses
 First-Party-Tracking, also kein Banner. Keine Lizenzgebühr für das Kernsystem.
 
@@ -54,7 +54,7 @@ nicht tun, nicht nur, was wir tun.
 ## Wohin von hier
 
 - **[btlabs.dev](https://btlabs.dev/de)** — die Plattform. Deutsch, Italienisch, Englisch.
-- **[berger.team](https://www.berger.team/)** — das Kollektiv dahinter. Bozen, Südtirol.
+- **[berger.team](https://www.berger.team/)** — Berger+Team ist ein Freelancer-Kollektiv aus Bozen (Südtirol) für Branding, Webdesign, Online-Marketing und KI-Sichtbarkeit, 2019 gegründet von Florian Berger.
 
 Werkzeuge, die nur uns gehören und anderen nützen, landen in dieser Organisation. Das
 erste ist unterwegs.
